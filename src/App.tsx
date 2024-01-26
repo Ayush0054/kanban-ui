@@ -27,13 +27,13 @@ import { ScrollArea, ScrollBar } from "./components/ui/scroll-area";
 
 function App() {
   //cards
-  const [columns, setColumns] = useState({
+  const columns = {
     column1: [card1, card2, card3],
     column2: [card4, card5, card15],
     column3: [card6, card7, card8],
     column4: [card9, card10, card11],
     column5: [card12, card13, card14],
-  });
+  };
 
   return (
     <main>
