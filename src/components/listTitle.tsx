@@ -1,4 +1,3 @@
-import React from "react";
 import { Card } from "./ui/card";
 
 function ListTitle({ props }: { props: { t: string } }) {
