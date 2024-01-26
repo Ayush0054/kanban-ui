@@ -1,10 +1,10 @@
-import logo from "/home/yus-vengeance/Desktop/trello/src/assets/logo/Logo.png";
-import user from "/home/yus-vengeance/Desktop/trello/src/assets/user/user.png";
-import bar from "/home/yus-vengeance/Desktop/trello/src/assets/logo/bar.png";
-import mobileBar from "/home/yus-vengeance/Desktop/trello/src/assets/icons/bar-mobile.png";
-import icons from "/home/yus-vengeance/Desktop/trello/src/assets/icons/Icons.png";
-import search from "/home/yus-vengeance/Desktop/trello/src/assets/icons/search.png";
-import LightSearch from "/home/yus-vengeance/Desktop/trello/src/assets/icons/search-gray.png";
+import logo from "@/assets/logo/Logo.png";
+import user from "@/assets/user/user.png";
+import bar from "@/assets/logo/bar.png";
+import mobileBar from "@/assets/icons/bar-mobile.png";
+import icons from "@/assets/icons/Icons.png";
+import search from "@/assets/icons/search.png";
+import LightSearch from "@/assets/icons/search-gray.png";
 function Navbar() {
   return (
     <div className=" py-[15px] border-b-2 border-gray-200 px-[30px]">

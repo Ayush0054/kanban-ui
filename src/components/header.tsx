@@ -1,8 +1,8 @@
-import heartIcon from "/home/yus-vengeance/Desktop/trello/src/assets/icons/heart.svg";
-import globeIcon from "/home/yus-vengeance/Desktop/trello/src/assets/icons/globe.svg";
-import HardIcon from "/home/yus-vengeance/Desktop/trello/src/assets/icons/Hard.svg";
-import user from "/home/yus-vengeance/Desktop/trello/src/assets/user/user.png";
-import ovalIcon from "/home/yus-vengeance/Desktop/trello/src/assets/icons/oval.svg";
+import heartIcon from "@/assets/icons/heart.svg";
+import globeIcon from "@/assets/icons/globe.svg";
+import HardIcon from "@/assets/icons/Hard.svg";
+import user from "@/assets/user/user.png";
+import ovalIcon from "@/assets/icons/oval.svg";
 function Header() {
   return (
     <div className=" flex md:items-center items-end   justify-between md:mt-[31px] md:mb-[18px] mb-[10px] mt-[20px] md:mx-[30px] mx-[16px] ">

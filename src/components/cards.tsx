@@ -1,12 +1,12 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
 import { Card } from "./ui/card";
-import plusIcon from "/home/yus-vengeance/Desktop/trello/src/assets/icons/plus.svg";
-import messageIcon from "/home/yus-vengeance/Desktop/trello/src/assets/icons/message.svg";
-import heartIcon from "/home/yus-vengeance/Desktop/trello/src/assets/icons/heart.svg";
-import attachIcon from "/home/yus-vengeance/Desktop/trello/src/assets/icons/attach.svg";
+import plusIcon from "@/assets/icons/plus.svg";
+import messageIcon from "@/assets/icons/message.svg";
+import heartIcon from "@/assets/icons/heart.svg";
+import attachIcon from "@/assets/icons/attach.svg";
 
-import user from "/home/yus-vengeance/Desktop/trello/src/assets/user/user.png";
+import user from "@/assets/user/user.png";
 import { Badge } from "./ui/badge";
 
 function Cards({ props }: { props: any }) {

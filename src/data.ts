@@ -1,9 +1,9 @@
-import photo1 from "/home/yus-vengeance/Desktop/trello/src/assets/image/Photo.png";
-import photo2 from "/home/yus-vengeance/Desktop/trello/src/assets/image/Photo2.png";
-import photo3 from "/home/yus-vengeance/Desktop/trello/src/assets/image/Photo3.png";
-import photo4 from "/home/yus-vengeance/Desktop/trello/src/assets/image/Photo4.png";
-import photo5 from "/home/yus-vengeance/Desktop/trello/src/assets/image/Photo5.png";
-import photo6 from "/home/yus-vengeance/Desktop/trello/src/assets/image/Photo6.png";
+import photo1 from "@/assets/image/Photo.png";
+import photo2 from "@/assets/image/Photo2.png";
+import photo3 from "@/assets/image/Photo3.png";
+import photo4 from "@/assets/image/Photo4.png";
+import photo5 from "@/assets/image/Photo5.png";
+import photo6 from "@/assets/image/Photo6.png";
 
 export const card1 = {
   id: "card1",
